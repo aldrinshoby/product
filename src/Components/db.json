@@ -1,0 +1,32 @@
+{ 
+    "product":[ 
+        {  
+        "id":1,
+        "name":"watch",
+        "brand":"G shock",
+        "quality":1,
+        "price":1200
+        }, 
+        {
+        "id":2,
+        "name":"paste",
+        "brand":"colgate",
+        "quality":4,
+        "price":50
+        },
+        { 
+        "id":3,
+        "name":"soap",
+        "brand":"lux",
+        "quality":6,
+        "price":35
+        },
+        { 
+            "id":4,
+            "name":"purse",
+            "brand":"woodland",
+            "quality":9,
+            "price":1600
+            }
+    ]
+}
